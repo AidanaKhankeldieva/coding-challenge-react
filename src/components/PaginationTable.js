@@ -40,8 +40,6 @@ export const PaginationTable = () => {
       data,
       defaultColumn,
     },
-
-    // useFilters,
     useGlobalFilter,
     useSortBy,
     usePagination
