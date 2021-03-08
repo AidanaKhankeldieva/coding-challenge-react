@@ -24,6 +24,21 @@ tfoot td {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
-  background-color: #4caf50;
+  background-color: #7455be;
   color: white;
+}
+
+.search {
+  margin: 20px 0;
+}
+.search span {
+  font-weight: bold;
+}
+.search input {
+  width: 23%;
+  height: 25px;
+}
+
+.pagination-box {
+  margin: 20px auto;
 }
